@@ -69,7 +69,7 @@ def test_count_primes():
     print('Actual count = ', count_primes(1, 3))
 
     ###############################################################################
-    #   TODO: 3. Add the additional test cases for this function below
+    #   DONE: 3. Add the additional test cases for this function below
     # After you have coded this, change its _TODO_ to DONE.
     ###############################################################################
     print()
